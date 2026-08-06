@@ -1,0 +1,14 @@
+## For loops for list
+#l = [1,6,4,234]
+#for i in l:
+#    print(i)
+
+##For loop with Tuples
+#t = (6,231,75,122)
+#for i in t:
+#    print(i)
+
+##For loop with string
+s = "Rituraj"
+for i in s:
+    print(i)
