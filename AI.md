@@ -1,17 +1,3 @@
-Yes. If you've already learned the **theory basics**, don't spend another month reading Python theory.
-
-As your mentor, I would move you into **"learn → code → break → debug → rebuild"** mode.
-
-Your target is not:
-
-> "I know Python."
-
-Your target is:
-
-> **"Give me a problem and I can build the solution in Python."**
-
-## Your next stage: Python from theory → engineering
-
 Follow this order.
 
 ### Phase 1 — Core Python through problems
