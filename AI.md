@@ -575,46 +575,6 @@ Separate modules
 REST API
 ```
 
-Now you've transformed one beginner project into an **engineering project**.
-
----
-
-# How I want you to study each day
-
-Don't do:
-
-> 2 hours watching Python tutorials.
-
-Do this:
-
-### 20 minutes — Learn
-
-One concept.
-
-Example:
-
-**Dictionary**
-
-### 40 minutes — Code
-
-Write 5–10 small programs using dictionaries.
-
-### 20 minutes — Challenge
-
-Solve one problem without looking at the solution.
-
-### 20 minutes — Debug/review
-
-Take your own code and improve it.
-
-### 10 minutes — Explain
-
-Explain the concept out loud as if you're teaching your students.
-
-Since you're also teaching Python, this last step is particularly powerful.
-
----
-
 # Your "Am I ready?" test
 
 Before moving toward AI/ML, you should be able to build something like this **without a tutorial open**:
@@ -640,30 +600,4 @@ Student Management System
 
 If you can do that, I would consider your Python foundation **strong enough to start moving seriously toward AI Engineering**.
 
-## And one important thing for you
 
-Don't wait until you "master Python" before touching AI.
-
-Once you've reached roughly:
-
-**Functions + collections + exceptions + files + modules + basic OOP**
-
-start doing **small AI experiments alongside your Python learning**.
-
-For example:
-
-```text
-Python fundamentals
-        ↓
-Small AI API call
-        ↓
-Python + API
-        ↓
-JSON
-        ↓
-LLM API
-        ↓
-Build AI application
-```
-
-That way, you're learning Python **for a purpose**, rather than studying Python indefinitely.
