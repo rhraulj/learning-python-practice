@@ -1,1 +1,163 @@
+Python - Programming language 
 
+Feature of python--
+
+1: Simple 
+2: Object Oriented 
+3: Open source 
+4: Dynamically Typed
+5: Platform Independent
+6: Rich in Library
+
+---------------------------------------
+
+English - Natural language
+alphabets > words > sentences > paragraph > chapter > book 
+
+python - Programming language
+character set > tokens > instruction > command > program > software
+
+------
+
+character set
+
+256 - 
+alphabets
+digits 
+special symbols 
+
+-------
+
+tokens - smallest units of the program
+1: keywords 
+2: Literal 
+3: Identifier 
+4: Separator 
+5: Operator
+
+1: keywords - Pre-defined words- reserve words- (35)
+
+Complete List of 35 Python Keywords
+
+if,else,else,class,with...
+
+2: Literal- all type of values-
+
+numerical - int,float
+collection - string,list,tuple,dictionary,set
+None type
+complex numbers
+Boolen values- True,False
+
+3: Identifier- Names in the program - variable,function,class,object
+1: only alphabets, digit and underscroe allowed 
+2: can no be start with digit
+
+4: Separator - comma,colon,brackets
+
+
+5: Operators - responsible for an operation (-imp in logic building)
+1: Arithmetic op  (+ - * / // % **)
+2: relational op  (< > <= >= != ==)
+3: Assinment op  (= += -= *= /=)
+4: Logical op  (and or not)
+5: Membership op  (in not in )
+6: identity op  (is  is not)
+7: bitwise op  (& | ^ ~ << >> )
+
+---oprations op
+
+1: Arithmetic op (+ - * / // % **)
+
+print(5/2)
+2.5
+
+print(5//2)
+2
+
+print(5%2)
+1
+
+print(5**2)
+625
+
+## BODMAS   
+bracket 
+exponent
+module,division,multiplication
+addition,substraction
+------------
+
+2: relational op  (< > <= >= != ==)
+
+a = 5 
+print(a>100)
+false
+a>=0
+true
+
+-----------
+
+3: Assinment op  (= += -= *= /=)
+
+a = 90 
+a = 56+34-23
+a
+67
+a = 5 
+a+=10 #a = a+10
+
+
+---------
+
+4: Logical op  (and or not)
+
+a>0 and a<500 and 100>50
+True
+
+a>0 and a<5000 and 100<50
+False
+
+a<0 or a<500 or 100>50
+True
+
+a<0 and a>5000 and 100<50
+False
+
+a<15
+True
+
+not a<15
+False
+--------
+
+5: Membership op  (in not-in )
+
+data = "honesty is the best policy"
+data
+'honesty is the best policy'
+"best" in data
+True
+"Hello" not in data
+True
+
+------
+
+6: Identity op  (is  is-not)
+
+x = 5
+y = 5
+
+id(x)
+10758992
+id(y)
+10758992
+
+x is y
+True
+y is not x
+False
+
+-------
+
+7: bitwise op  (& | ^ ~ << >> )
